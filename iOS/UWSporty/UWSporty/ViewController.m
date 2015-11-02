@@ -1,18 +1,18 @@
 //
-//  DataViewController.m
+//  ViewController.m
 //  UWSporty
 //
-//  Created by Lohit Talasila on 2015-10-31.
+//  Created by Lohit Talasila on 2015-11-01.
 //  Copyright © 2015 Lohit Talasila. All rights reserved.
 //
 
-#import "DataViewController.h"
+#import "ViewController.h"
 
-@interface DataViewController ()
+@interface ViewController ()
 
 @end
 
-@implementation DataViewController
+@implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -22,11 +22,6 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-}
-
-- (void)viewWillAppear:(BOOL)animated {
-    [super viewWillAppear:animated];
-    self.dataLabel.text = [self.dataObject description];
 }
 
 @end

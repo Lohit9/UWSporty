@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7AFB60881BE5900E00177B7E"
+               BlueprintIdentifier = "7A2E08AE1BE6F9B8002C3D01"
                BuildableName = "UWSporty.app"
                BlueprintName = "UWSporty"
                ReferencedContainer = "container:UWSporty.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7AFB60A71BE5900E00177B7E"
+               BlueprintIdentifier = "7A2E08C71BE6F9B8002C3D01"
                BuildableName = "UWSportyTests.xctest"
                BlueprintName = "UWSportyTests"
                ReferencedContainer = "container:UWSporty.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7AFB60B21BE5900E00177B7E"
+               BlueprintIdentifier = "7A2E08D21BE6F9B8002C3D01"
                BuildableName = "UWSportyUITests.xctest"
                BlueprintName = "UWSportyUITests"
                ReferencedContainer = "container:UWSporty.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7AFB60881BE5900E00177B7E"
+            BlueprintIdentifier = "7A2E08AE1BE6F9B8002C3D01"
             BuildableName = "UWSporty.app"
             BlueprintName = "UWSporty"
             ReferencedContainer = "container:UWSporty.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7AFB60881BE5900E00177B7E"
+            BlueprintIdentifier = "7A2E08AE1BE6F9B8002C3D01"
             BuildableName = "UWSporty.app"
             BlueprintName = "UWSporty"
             ReferencedContainer = "container:UWSporty.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7AFB60881BE5900E00177B7E"
+            BlueprintIdentifier = "7A2E08AE1BE6F9B8002C3D01"
             BuildableName = "UWSporty.app"
             BlueprintName = "UWSporty"
             ReferencedContainer = "container:UWSporty.xcodeproj">
